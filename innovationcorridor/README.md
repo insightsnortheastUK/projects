@@ -9,10 +9,14 @@ Previous reports and feasibility studies on similar initiatives highlight the fo
 •	Research and development: the presence of universities and collaborations between them are relevant for the success of this initiative. Several corridors were led or supported by recognised higher education institutions (e.g., Florida High Tech and Route 128 in the US, Cambridge Arch in the UK). Graduate flows are also an important data to identify potential collaboration between two cities.
 
 
-Goals:
+## Goals:
 The main goal is producing data visualisations for local policymakers, allowing them to understand the potential benefits of an innovation corridor in the region. This includes:
 -	Comparison of economic indicators: foreign direct investment, employment, etc
 -	Transport links and human flows (passengers and graduates)
 -	Companies' agglomerations (strategic sectors)
+
+## Products
+- Data visuals: exploratory analysis of economic indicators, sectors, and graduate outcomes
+- Report
 
 
